@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  margin-bottom: 80px;
+  padding-top: 80px;
+  margin-left: 2%;
+}
+
+.left {
+  flex: 1;
+  margin: 12px 24px;
+}
+
+.main-content {
+  flex: 2;
+  padding: 0 24px 24px 0;
+}
+
+.main__pagination {
+  display: flex;
+  justify-content: center;
+  margin-top: 24px;
+}

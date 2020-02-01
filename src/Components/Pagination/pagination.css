@@ -1,0 +1,20 @@
+.pagination {
+  display: flex;
+}
+
+.pagination__item {
+  padding-left: 24px;
+}
+
+[disabled] {
+  pointer-events: none;
+}
+
+a {
+  text-decoration: none;
+  color: #39afa9;
+}
+
+a:hover {
+  color: #1db865;
+}

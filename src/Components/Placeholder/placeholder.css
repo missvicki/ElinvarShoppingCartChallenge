@@ -1,0 +1,35 @@
+.placeholder__item {
+  display: flex;
+  border: 1px solid #ededed;
+  padding: 8px;
+}
+
+.placeholder__image {
+  height: 80px;
+  background-color: #ededed;
+  flex: 0 0 90px;
+}
+
+.placeholder__details {
+  margin-left: 24px;
+}
+
+.placeholder_one {
+  background-color: #ededed;
+  width: 300px;
+  height: 30px;
+  margin-bottom: 5px;
+}
+
+.placeholder_two {
+  background-color: #ededed;
+  width: 300px;
+  height: 20px;
+  margin-bottom: 5px;
+}
+
+.placeholder_three {
+  background-color: #ededed;
+  width: 100px;
+  height: 20px;
+}
